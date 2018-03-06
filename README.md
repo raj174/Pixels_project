@@ -15,3 +15,5 @@ Depending on this it plays the set of animations.
 If the fadecandy is not connected to the internet you'd need to run the Sunrise_Sunset_API.py every morning so it can get the new values.
 
 The current location for Sunset and Sunrise is near the Ritterman Building, Middlesex University
+
+Some of the Arduino code and Python Code have been taken from example codes that were provided by the libraries used.
